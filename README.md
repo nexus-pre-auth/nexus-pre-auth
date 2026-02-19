@@ -10,5 +10,3 @@ Designed for high-trust environments, our engine utilizes a stateless in-memory 
 - **No Persistence:** Patient identity is never written to disk.
 - **Integrity Hashing:** Every audit result is cryptographically signed (SHA-256).
 
-### 🚀 Quick Start
-```bash
